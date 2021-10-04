@@ -34,3 +34,8 @@ git commit -m "Your commit Message"
 git push origin branch-name
 ```
 * Make a pull request.
+
+### NOTE
+* Make Sure you commit your changes in a new branch.
+* Make Sure you Give proper name to your files describing the addition.
+* Also Make Sure you comment your code whereever necessary.
